@@ -2,7 +2,15 @@ apiVersion: v1
 entries:
   sre:
   - apiVersion: v1
-    created: 2018-06-06T08:19:11.789571445Z
+    created: 2018-06-06T08:21:53.70192629Z
+    description: A Helm chart for Kubernetes
+    digest: 248e0f54fd28da884230f30c978f6e6217d2bc5118226ab4794ad1bf07debf60
+    name: sre
+    urls:
+    - sre-1.0.46.tgz
+    version: 1.0.46
+  - apiVersion: v1
+    created: 2018-06-06T08:21:53.700605254Z
     description: A Helm chart for Kubernetes
     digest: 835953a1991d2c9cb3466194e590ab92a4073f917c74cb3d89c33ec36b5fe85e
     name: sre
@@ -10,7 +18,7 @@ entries:
     - sre-1.0.45.tgz
     version: 1.0.45
   - apiVersion: v1
-    created: 2018-06-06T08:19:11.788749925Z
+    created: 2018-06-06T08:21:53.699712525Z
     description: A Helm chart for Kubernetes
     digest: 141a971437a7cf0d7327a6244f054db38789ade7f5ab0c34aca3d62b33c4619f
     name: sre
@@ -18,11 +26,11 @@ entries:
     - sre-1.0.44.tgz
     version: 1.0.44
   - apiVersion: v1
-    created: 2018-06-06T08:19:11.787917555Z
+    created: 2018-06-06T08:21:53.698813355Z
     description: A Helm chart for Kubernetes
     digest: ea4fa09dbf50965147fc059b70965fbc90d0377131f2d96e38ebeca518724ffb
     name: sre
     urls:
     - sre-1.0.42.tgz
     version: 1.0.42
-generated: 2018-06-06T08:19:11.786642051Z
+generated: 2018-06-06T08:21:53.697438619Z
